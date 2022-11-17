@@ -1,4 +1,7 @@
 <html>
+<head>
+<title>Maven Web App One</title>
+</head>
 <body>
 <h2>Hello World!</h2>
 <h3>Updating file and set Trigger for 5Min</h3>
