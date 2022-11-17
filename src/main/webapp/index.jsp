@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Maven WebApp One</title>
+<title>Mevan WebApp One</title>
 </head>
 <body>
 <h2>Hello World!</h2>
