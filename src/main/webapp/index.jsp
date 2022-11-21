@@ -3,8 +3,9 @@
 <title>Mevan WebApp One</title>
 </head>
 <body>
-<h2>Hello World!</h2>
-<h3>Updating file and set Trigger for 5Min</h3>
-<h4>File Jsp Modified 2nd Time</h4>
+  <div>
+      <h1 style="background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));">Page modified for new maven project</h1>
+      <p>It's 6:08PM</p>
+  </div>
 </body>
 </html>
