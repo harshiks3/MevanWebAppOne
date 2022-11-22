@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE>
+<html  lang="en" xml:lang="en">
 <head>
 <title>Mevan WebApp One</title>
 </head>
